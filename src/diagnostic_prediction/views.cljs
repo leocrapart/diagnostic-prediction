@@ -60,7 +60,7 @@
 
 ;; client 
 ; landes, milieu reculé sans médecins
-; logiciel validé par le samu
+; logiciel validé par le samu, et l'ars
 ; médecin seul apte à déclarer le décès
 ; infirmières à domicile
 ; appeler le samu ou pas
