@@ -12,3 +12,20 @@
      ]))
 
 
+; x
+; y   -> diagnostic
+; z
+
+
+; vars = 
+; {:x 0.5
+;  :y 10
+;  :z 1}
+
+
+; diagnostic = 
+; {:title 
+;  :text
+;  :images?
+;  :url
+;  :pertinence}
